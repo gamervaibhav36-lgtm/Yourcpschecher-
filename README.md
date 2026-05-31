@@ -1,5 +1,3 @@
-Action: file_editor create /app/cps-counter.html --file-text "<!DOCTYPE html>
-
 <html lang=\"en\">  
 <head>  
     <meta charset=\"UTF-8\">  
